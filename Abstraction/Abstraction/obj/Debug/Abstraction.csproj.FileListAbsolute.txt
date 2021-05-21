@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\tyler\Desktop\Claim Academy\Code\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
