@@ -1,0 +1,14 @@
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\bin\Debug\Week2-StringAssignments.exe.config
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\bin\Debug\Week2-StringAssignments.exe
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\bin\Debug\Week2-StringAssignments.pdb
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.exe
+C:\Users\tyler\Desktop\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.pdb
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\bin\Debug\Week2-StringAssignments.exe.config
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\bin\Debug\Week2-StringAssignments.exe
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\bin\Debug\Week2-StringAssignments.pdb
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.csprojAssemblyReference.cache
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.csproj.CoreCompileInputs.cache
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.exe
+D:\EDUCATION\Claim Academy\Code\Week2-StringAssignments\Week2-StringAssignments\obj\Debug\Week2-StringAssignments.pdb
