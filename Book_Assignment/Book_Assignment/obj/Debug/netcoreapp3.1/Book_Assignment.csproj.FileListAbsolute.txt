@@ -1,0 +1,13 @@
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\bin\Debug\netcoreapp3.1\Book_Assignment.exe
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\bin\Debug\netcoreapp3.1\Book_Assignment.deps.json
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\bin\Debug\netcoreapp3.1\Book_Assignment.runtimeconfig.json
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\bin\Debug\netcoreapp3.1\Book_Assignment.runtimeconfig.dev.json
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\bin\Debug\netcoreapp3.1\Book_Assignment.dll
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\bin\Debug\netcoreapp3.1\Book_Assignment.pdb
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.csprojAssemblyReference.cache
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.AssemblyInfoInputs.cache
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.AssemblyInfo.cs
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.csproj.CoreCompileInputs.cache
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.dll
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.pdb
+D:\EDUCATION\Claim Academy\Code\Book_Assignment\Book_Assignment\obj\Debug\netcoreapp3.1\Book_Assignment.genruntimeconfig.cache
